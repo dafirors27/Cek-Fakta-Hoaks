@@ -1,0 +1,6 @@
+{
+  "name": "HealthCheck Youth - Cek Fakta Hoaks Kesehatan",
+  "description": "Platform filter dan verifikasi tren kesehatan viral media sosial untuk remaja dan publik, didukung AI Google Gemini dan database Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
